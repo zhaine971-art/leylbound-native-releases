@@ -1,0 +1,11 @@
+{
+    "schema":  1,
+    "product":  "leybound-launcher-ui",
+    "version":  "1.0.0",
+    "minShellVersion":  "1.0.0",
+    "publishedUtc":  "2026-11-21T15:43:45.8053071Z",
+    "url":  "https://github.com/zhaine971-art/leylbound-native-releases/releases/download/launcher-ui/launcher-ui-1.0.0.zip",
+    "size":  9026,
+    "sha256":  "0c97be8bbd64eb4836a6b63e58389e455a7bed55cf704be60f6544ab0c829184",
+    "notes":  "A fresh coat of green for the launcher."
+}
