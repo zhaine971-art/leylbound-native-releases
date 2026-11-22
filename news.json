@@ -1,19 +1,18 @@
 {
   "schema": 1,
-  "updatedUtc": "2026-11-21T15:50:00Z",
-  "banner": {
-    "text": "Leybound 0.9.50 is live. Signed native updates are now available.",
-    "kind": "info"
-  },
+  "updatedUtc": "2026-11-22T10:10:43.1231659+00:00",
+  "banner": null,
   "items": [
     {
-      "id": "native-0.9.50",
-      "date": "2026-11-21T15:50:00Z",
-      "title": "Native release 0.9.50",
-      "body": "The signed native release feed is live. Existing launchers can now fetch and verify the 0.9.50 build.",
-      "tag": "Release",
+      "id": "news-20261122101043",
+      "date": "2026-11-22T10:10:43.1231778+00:00",
+      "title": "Multiplayer",
+      "body": "Just added cloudflare tunnel as a temp way for online play.",
+      "tag": "News",
       "severity": "normal",
-      "pinned": true
+      "pinned": true,
+      "link": null,
+      "expiresUtc": null
     }
   ]
 }
